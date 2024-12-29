@@ -1,0 +1,37 @@
+Streaming transaction logs mentioning 4VuB55bdu6fjN2jFW3cAAd4EbapnF2q7Z51v9d85pKXp. Confirmed commitment
+Transaction executed in slot 4:
+  Signature: 2CuB29rRDW9tmYw1eiqdCe7veokKasWyHgG2RF8FMwngrnhS7PksnhULBPPxovwq1BdvBrXR3UUowCrrSCTb9DGB
+  Status: Ok
+  Log Messages:
+    Program 4VuB55bdu6fjN2jFW3cAAd4EbapnF2q7Z51v9d85pKXp invoke [1]
+    Program log: Instruction: MintToken
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4538 of 196314 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4VuB55bdu6fjN2jFW3cAAd4EbapnF2q7Z51v9d85pKXp consumed 8441 of 200000 compute units
+    Program 4VuB55bdu6fjN2jFW3cAAd4EbapnF2q7Z51v9d85pKXp success
+Transaction executed in slot 5:
+  Signature: 65zXpGaTWfms3rVUCs54FGuGmucsEN8Gh9jJwEzUScwEZa5ett6gA6Kj3B59FYT1oprZ4Ck388KgStB44HdE276K
+  Status: Ok
+  Log Messages:
+    Program 4VuB55bdu6fjN2jFW3cAAd4EbapnF2q7Z51v9d85pKXp invoke [1]
+    Program log: Instruction: TransferToken
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 196284 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4VuB55bdu6fjN2jFW3cAAd4EbapnF2q7Z51v9d85pKXp consumed 8578 of 200000 compute units
+    Program 4VuB55bdu6fjN2jFW3cAAd4EbapnF2q7Z51v9d85pKXp success
+Transaction executed in slot 6:
+  Signature: 65zXpGaTWfms3rVUCs54FGuGmucsEN8Gh9jJwEzUScwEZa5ett6gA6Kj3B59FYT1oprZ4Ck388KgStB44HdE276K
+  Status: Ok
+  Log Messages:
+    Program 4VuB55bdu6fjN2jFW3cAAd4EbapnF2q7Z51v9d85pKXp invoke [1]
+    Program log: Instruction: TransferToken
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 196284 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4VuB55bdu6fjN2jFW3cAAd4EbapnF2q7Z51v9d85pKXp consumed 8578 of 200000 compute units
+    Program 4VuB55bdu6fjN2jFW3cAAd4EbapnF2q7Z51v9d85pKXp success
